@@ -1,1 +1,1 @@
-# A Discord bot for the bellaim server 
+# A Discord bot for the bellaim discord server 
